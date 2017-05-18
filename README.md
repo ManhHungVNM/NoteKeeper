@@ -11,13 +11,13 @@ Features:
 - Add attachment for notes
 - Double click note in listview to copy to clipboard
 - Support macro for note:
-[@MDAY]												:	Current Day of Month
-[@WEEK]												:	Current Week Number
-[@MONTH]											:	Current Month
-[@YEAR]												:	Current Year
-[@TODAY-VN]										:	Current date with format DD/MM/YYYY
-[@GUID]												:	Generate GUID
-[@INPUT|Title|Message]      	:	Display a message box to get user's input
++ [@MDAY]												:	Current Day of Month
++ [@WEEK]												:	Current Week Number
++ [@MONTH]											:	Current Month
++ [@YEAR]												:	Current Year
++ [@TODAY-VN]										:	Current date with format DD/MM/YYYY
++ [@GUID]												:	Generate GUID
++ [@INPUT|Title|Message]      	:	Display a message box to get user's input
 
 This software is developed for personal purposes of mine, so maybe it is NOT free bugs!
 Feel free to email me for any suggestion
