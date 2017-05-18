@@ -1,10 +1,10 @@
 NOTE KEEPER
+-------------------
 Last Update: 18/05/2017
 Language: AutoIt
 License: Freeware
 Author: Nguyen Hung
 Email: manh.hung@outlook.com
--------------------
 Features:
 - Manage your notes/code snippets/sentence templates/...
 - Add attachment for notes
